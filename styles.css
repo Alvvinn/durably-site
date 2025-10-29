@@ -204,38 +204,38 @@ a:hover {
 }
 
 .symbol-card--milestones {
-  --symbol-color: #facc15;
-  --symbol-border: rgba(250, 204, 21, 0.55);
-  --symbol-surface: rgba(250, 204, 21, 0.14);
-  --symbol-icon-bg: rgba(250, 204, 21, 0.28);
+  --symbol-color: #ffcc00;
+  --symbol-border: rgba(255, 204, 0, 0.55);
+  --symbol-surface: rgba(255, 204, 0, 0.14);
+  --symbol-icon-bg: rgba(255, 204, 0, 0.28);
 }
 
 .symbol-card--events {
-  --symbol-color: #2563eb;
-  --symbol-border: rgba(37, 99, 235, 0.45);
-  --symbol-surface: rgba(37, 99, 235, 0.12);
-  --symbol-icon-bg: rgba(37, 99, 235, 0.24);
+  --symbol-color: #0a84ff;
+  --symbol-border: rgba(10, 132, 255, 0.5);
+  --symbol-surface: rgba(10, 132, 255, 0.14);
+  --symbol-icon-bg: rgba(10, 132, 255, 0.28);
 }
 
 .symbol-card--rules {
-  --symbol-color: #7c3aed;
-  --symbol-border: rgba(124, 58, 237, 0.5);
-  --symbol-surface: rgba(124, 58, 237, 0.14);
-  --symbol-icon-bg: rgba(124, 58, 237, 0.26);
+  --symbol-color: #af52de;
+  --symbol-border: rgba(175, 82, 222, 0.55);
+  --symbol-surface: rgba(175, 82, 222, 0.14);
+  --symbol-icon-bg: rgba(175, 82, 222, 0.28);
 }
 
 .symbol-card--second-life {
-  --symbol-color: #a855f7;
-  --symbol-border: rgba(168, 85, 247, 0.5);
-  --symbol-surface: rgba(168, 85, 247, 0.14);
-  --symbol-icon-bg: rgba(168, 85, 247, 0.28);
+  --symbol-color: #bf5af2;
+  --symbol-border: rgba(191, 90, 242, 0.55);
+  --symbol-surface: rgba(191, 90, 242, 0.14);
+  --symbol-icon-bg: rgba(191, 90, 242, 0.28);
 }
 
 .symbol-card--loans {
-  --symbol-color: #d4af37;
-  --symbol-border: rgba(212, 175, 55, 0.55);
-  --symbol-surface: rgba(212, 175, 55, 0.16);
-  --symbol-icon-bg: rgba(212, 175, 55, 0.28);
+  --symbol-color: #34c759;
+  --symbol-border: rgba(52, 199, 89, 0.55);
+  --symbol-surface: rgba(52, 199, 89, 0.14);
+  --symbol-icon-bg: rgba(52, 199, 89, 0.28);
 }
 
 .symbol-card--warranty {
