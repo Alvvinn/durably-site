@@ -103,7 +103,7 @@ a:hover {
 }
 
 .hero-media img {
-  border-radius: 24px;
+  border-radius: 0;
   max-width: 100%;
 }
 
