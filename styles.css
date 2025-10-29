@@ -194,17 +194,17 @@ a:hover {
 .symbol-icon {
   align-items: center;
   background: var(--symbol-icon-bg);
-  border-radius: 16px;
+  border-radius: 24px;
   display: inline-flex;
-  height: 52px;
+  height: 96px;
   justify-content: center;
-  width: 52px;
+  width: 96px;
 }
 
 .symbol-icon img {
   display: block;
-  max-height: 40px;
-  max-width: 40px;
+  height: auto;
+  width: auto;
 }
 
 .symbol-card--milestones {
