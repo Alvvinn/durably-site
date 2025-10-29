@@ -263,10 +263,10 @@ a:hover {
 }
 
 .symbol-card--second-life {
-  --symbol-color: #bf5af2;
-  --symbol-border: rgba(191, 90, 242, 0.55);
-  --symbol-surface: rgba(191, 90, 242, 0.14);
-  --symbol-icon-bg: rgba(191, 90, 242, 0.28);
+  --symbol-color: #c6b1ed;
+  --symbol-border: rgba(198, 177, 237, 0.55);
+  --symbol-surface: rgba(198, 177, 237, 0.14);
+  --symbol-icon-bg: rgba(198, 177, 237, 0.28);
 }
 
 .symbol-card--loans {
@@ -277,10 +277,10 @@ a:hover {
 }
 
 .symbol-card--warranty {
-  --symbol-color: #10b981;
-  --symbol-border: rgba(16, 185, 129, 0.55);
-  --symbol-surface: rgba(16, 185, 129, 0.14);
-  --symbol-icon-bg: rgba(16, 185, 129, 0.28);
+  --symbol-color: #fa9d96;
+  --symbol-border: rgba(250, 157, 150, 0.55);
+  --symbol-surface: rgba(250, 157, 150, 0.14);
+  --symbol-icon-bg: rgba(250, 157, 150, 0.28);
 }
 
 ul {
