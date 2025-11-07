@@ -120,6 +120,7 @@ a:hover {
 
   .hero-content {
     align-items: center;
+    justify-self: center;
   }
 }
 
@@ -137,6 +138,8 @@ a:hover {
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
+  justify-self: start;
+  max-width: 522px;
 }
 
 .hero-content h2 {
@@ -148,6 +151,16 @@ a:hover {
   color: var(--muted);
   font-size: 1.1rem;
   line-height: 1.7;
+}
+
+.hero-badge {
+  margin-top: 1.5rem;
+}
+
+.hero-badge img {
+  display: block;
+  height: auto;
+  max-width: 100%;
 }
 
 .section {
@@ -334,6 +347,24 @@ ul li + li {
 .link {
   display: inline-block;
   margin-top: 1rem;
+}
+
+.app-store-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.app-store-links a {
+  display: inline-flex;
+}
+
+.app-store-links img {
+  display: block;
+  height: auto;
+  max-width: 100%;
 }
 
 .site-footer {
